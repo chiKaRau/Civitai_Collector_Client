@@ -2,7 +2,7 @@
 
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
-Civitai Collector is a Chrome extension built using TypeScript and Visual Studio Code.
+Civitai Collector is a Chrome extension built using TypeScript and Visual Studio Code for better organizing the model file you download from [Civitai](https://civitai.com/)
 
 ## Prerequisites
 
