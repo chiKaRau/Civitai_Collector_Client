@@ -32,7 +32,7 @@ Civitai Collector can help you download a model and zip it by the folder path in
 
 Additionally, the app automatically adds the model information into Google Sheets and MongoDB (You would need to setup Googlesheet Auth and MongoDB Auth in order to be funciton), providing an easy way to keep track of your models and their details.
 
-To use Civitai Collector, follow these steps:
+To use Civitai Collector, follow these steps (You would need to have Civitai_Collector_Server running):
 
 1. Click on the Civitai Collector icon in the Chrome toolbar to open the extension popup.
 
