@@ -1,4 +1,4 @@
-# Civitai Collector Client
+# Civitai Collector Client (Developing)
 
 ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
 
